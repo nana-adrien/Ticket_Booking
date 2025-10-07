@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924554015175",
+    "project_id": "ticket-booking-3ee0b",
+    "storage_bucket": "ticket-booking-3ee0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924554015175:android:b8b0b4c19a55a590e4e9e2",
+        "android_client_info": {
+          "package_name": "empire.digiprem.ticketbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5V6M90t281LlJAMjO7Pw8S0dCELqWDuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
