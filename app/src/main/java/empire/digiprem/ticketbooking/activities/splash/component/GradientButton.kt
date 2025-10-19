@@ -1,4 +1,4 @@
-package empire.digiprem.ticketbooking.splash.component
+package empire.digiprem.ticketbooking.activities.splash.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
